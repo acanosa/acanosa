@@ -1,6 +1,7 @@
 ## System.out.println("Hello world! 👋💻🐛");
 
 ### whoami
+#### Backend Engineer | Java 21 | Microservices & Scalable Systems | Spring Boot 3
 My name is Alejandro, I live in Buenos Aires, Argentina, and I've been coding non-stop since high-school. I got my bachelors in 2019 and started my career in 2018. You can find more information about my work history below
 
 ### FROM my_current_stack
