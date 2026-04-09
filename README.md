@@ -42,7 +42,7 @@ Here are some technologies, frameworks and tools that I've used in the past or i
 - Kanban
 - XP (TDD, user stories)
 
-### curl get http://acanosa/jobs?order_by=start_date&order=desc
+### `curl get http://acanosa/jobs?order_by=start_date&order=desc`
 
 ---
 
