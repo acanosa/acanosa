@@ -1,28 +1,48 @@
 ## System.out.println("Hello world! 👋💻🐛");
-
-### whoami
 #### Backend Engineer | Java 21 | Microservices & Scalable Systems | Spring Boot 3
-My name is Alejandro, I live in Buenos Aires, Argentina, and I've been coding non-stop since high-school. I got my bachelors in 2019 and started my career in 2018. You can find more information about my work history below
+---
+### whoami
+
+My name is Alejandro, I live in Buenos Aires, Argentina, and I've been coding non-stop since high-school. I got my bachelors in 2019 and started my career in 2018. 
+
+I've been a **backend developer with +8 years of experience** building scalable systems, also doing some frontend work from time to time. I worked the most on high-traffic platforms like Mercado Libre, fintech systems such as Prisma's prepaid cards system and currently in an IoT infrastructure's core app maintainer.
+
+You can find more information about my work history and [contact information](https://github.com/acanosa/acanosa/edit/main/README.md#lets-talk-) below
 
 ### FROM my_current_stack
 
 At my current work, I use these technologies, frameworks and tools:
+
+**Languages and frameworks:**
 - Java 21
 - Spring Boot 3
+- Python for automatizing manual, boring work 😴
+  
+**DB, cache and brokers:**
 - PostgreSQL
 - Redis
 - Kafka
-- AWS --> Systems Config, SQS, SNS (and more that I surely forgot 😛)
+  
+**CI/CD:**
 - Jenkins
 - ArgoCD
-- JIRA 
-- Github Copilot Pro (both integrated with Github for automatic PR review and IDE)
-- Scrum
-- Confluence
+
+**Containerization tools:**
 - Docker
+- Kubernetes
+  
+**Cloud:**
+- AWS --> Systems Config, SQS, SNS (and more that I surely forgot 😛)
+  
+**AI:**
+- Github Copilot Pro (both integrated with Github for automatic PR review and IDE)
+
+**Team collab, traceability and observability tools:**
 - Grafana
 - OpenSearch
-- Python for automatizing manual, boring work 😴
+- JIRA 
+- Confluence
+- Scrum
 
 ### def myLanguages():
 
@@ -34,13 +54,23 @@ These are the languages that I studied or I'm studying:
 ### SELECT * FROM tech_stack WHERE current = false OR side_project = true;
 
 Here are some technologies, frameworks and tools that I've used in the past or in side projects:
+
+**Frontend / javascript**
 - React.js
 - Node.js
 - Typescript
-- MySQL
-- Cursor IDE Pro
-- MongoDB
+
+**Python**
 - Scrapy
+
+**DB, brokers**
+- MySQL
+- MongoDB
+
+**AI**
+- Cursor IDE Pro
+
+**Team collaboration / Team framework**
 - Kanban
 - XP (TDD, user stories)
 
@@ -52,9 +82,9 @@ Here are some technologies, frameworks and tools that I've used in the past or i
 **Backend Developer (Java)**  
 📅 July 2024 - Present  
 
-- Development and maintenance of backend systems for an access, credentials, and rental contract management platform  
+- Development and maintenance of highly complex backend systems for an access, credentials, and rental contract management platform focusing on scalability and performance 
 - Integration with smart locks (Schlage, Brivo)  
-- Participation in incident management and data migrations from external systems  
+- Participation in incident management and very sensitive data migrations from external systems openly communicating with stakeholders and coordinating with other teams involved in solution
 
 **Technologies:**  
 `Java 21` `Spring Boot` `AWS` `Docker` `Jenkins` `ArgoCD` `OpenSearch` `Python` `JUnit 5`
@@ -65,7 +95,7 @@ Here are some technologies, frameworks and tools that I've used in the past or i
 **Backend Developer (Java / Kotlin)**  
 📅 August 2022 - July 2024  
 
-- Development and maintenance of the core prepaid card system  
+- Development and maintenance of the core prepaid card system
 - Generation of functional reports for users  
 - Implementation of Kanban methodology  
 
@@ -78,9 +108,8 @@ Here are some technologies, frameworks and tools that I've used in the past or i
 **Backend Developer (Java / Go)**  
 📅 December 2020 - August 2022  
 
-- Development of microservices for the Seller Experience vertical  
-- Cross-team coordination for incident management in package collection flows  
-- Participation in requirement gathering  
+- Development and maintenance of high-traffic microservices for seller platform
+- Cross-team coordination for incident management in package collection flows in a highly distributed infrastructure
 
 **Technologies:**  
 `Java 11` `Go` `Spring Boot` `MySQL` `Datadog` `New Relic` `Grafana` `Fury` `Jira`
@@ -113,21 +142,6 @@ Here are some technologies, frameworks and tools that I've used in the past or i
 
 ---
 
-### Contact info 🧐
+### Let's talk! 🧐
 
 You can reach me for job offers at acanosa@gmail.com, or through my linkedin, which is where I have the most up-to-date information [LinkedIn](https://www.linkedin.com/in/alejandro-canosa-229a91113/)
-
-<!--
-**acanosa/acanosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
