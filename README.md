@@ -7,7 +7,7 @@ My name is Alejandro, I live in Buenos Aires, Argentina, and I've been coding no
 
 I've been a **backend developer with +8 years of experience** building scalable systems, also doing some frontend work from time to time. I worked the most on high-traffic platforms like Mercado Libre, fintech systems such as Prisma's prepaid cards system and currently in an IoT infrastructure's core app maintainer.
 
-You can find more information about my work history and [contact information](https://github.com/acanosa/acanosa/edit/main/README.md#lets-talk-) below
+You can find more information about my work history and [contact information](https://github.com/acanosa/acanosa/blob/main/README.md#lets-talk-) below
 
 ### FROM my_current_stack
 
