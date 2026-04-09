@@ -20,6 +20,7 @@ At my current work, I use these technologies, frameworks and tools:
 - Confluence
 - Docker
 - Grafana
+- OpenSearch
 - Python for automatizing manual, boring work 😴
 
 ### def myLanguages():
