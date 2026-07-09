@@ -144,4 +144,4 @@ Here are some technologies, frameworks and tools that I've used in the past or i
 
 ### Let's talk! 🧐
 
-You can reach me for job offers at acanosa@gmail.com, or through my linkedin, which is where I have the most up-to-date information [LinkedIn](https://www.linkedin.com/in/alejandro-canosa-229a91113/)
+You can reach me for job offers at acanosa19@gmail.com, or through my linkedin, which is where I have the most up-to-date information [LinkedIn](https://www.linkedin.com/in/alejandro-canosa-229a91113/)
